@@ -14,7 +14,7 @@ ous
  * At most 10 impressions every 3 minutes, per user basis
  * A maximum of 10 USD to spend per day, system wide
 
-##Caveats
+## Caveats
 
 (**NOT PRODUCTION READY**)
 * Absolutely not ready for production usage. Nor anything!
