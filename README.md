@@ -14,13 +14,15 @@ Be mindful that this project was born in a weekend and out of my zone of comfort
 
 In general I aim to have code that is both well tested and readable.
 
+Any feedback is welcomed!!
+
 ## Contributing
 
 I welcome any and all constructive criticism.
 
-I'm really thankful for any comment (or even better a PR!) sent my way. As neither system nor codebase architecture could be ideal.
+I'm really thankful for any comment (or even better a PR!) sent my way. As neither system nor codebase architecture could be ideal and I'd love learning the proper way.
 
-####Requirements
+#### Requirements
 
  * Implement /bid route that recieves bid information
  * Implement bidding
