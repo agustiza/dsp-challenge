@@ -35,7 +35,7 @@ I'm really thankful for any comment (or even better a PR!) sent my way. As neith
  * A maximum of 10 USD to spend per day, system wide
 
 ### Ideal architecture diagram
-![](diagram.jpg)
+![diagram.png](diagram.png)
 
 ### Current architecture
 ![img.png](img.png)
