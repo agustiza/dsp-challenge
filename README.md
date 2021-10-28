@@ -26,7 +26,7 @@ I'm really thankful for any comment (or even better a PR!) sent my way. As neith
 
 ```bash
 docker build -t wildlife-challenge .
-docker run wildlife-challenge --rm
+docker run wildlife-challenge -p 8080 --rm
 ```
 
 #### Requirements
