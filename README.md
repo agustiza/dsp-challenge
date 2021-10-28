@@ -22,6 +22,13 @@ I welcome any and all constructive criticism.
 
 I'm really thankful for any comment (or even better a PR!) sent my way. As neither system nor codebase architecture could be ideal and I'd love learning the proper way.
 
+## Run with docker
+
+```bash
+docker build -t wildlife-challenge .
+docker run wildlife-challenge --rm
+```
+
 #### Requirements
 
  * Implement /bid route that recieves bid information
